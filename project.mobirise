@@ -62,7 +62,8 @@
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
     "chatbutton": {},
-    "mbrsiteDomain": "1f8djltzqq"
+    "mbrsiteDomain": "1f8djltzqq",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
