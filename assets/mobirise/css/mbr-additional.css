@@ -1642,18 +1642,6 @@ blockquote {
 .cid-rVjyTvbtOr P {
   color: #ffffff;
 }
-#custom-html-1f {
-  /* Type valid CSS here */
-}
-#custom-html-1f div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-1f p {
-  font-size: 60px;
-  color: #777;
-}
 .cid-rYNTlMkMij {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -13686,27 +13674,57 @@ blockquote {
 .cid-s5OLWbZaf9 .mbr-section-btn {
   color: #efefef;
 }
-.cid-s5OLWdzqhE {
-  padding-top: 60px;
-  padding-bottom: 15px;
+.cid-tRQqhYmkMM {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-s5OLWdzqhE .mbr-text,
-.cid-s5OLWdzqhE .ornament {
-  text-align: center;
-  color: #232323;
+.cid-tRQqhYmkMM .mbr-section-title {
+  margin-top: 30px;
+  margin-bottom: 0;
 }
-#custom-html-6b {
-  /* Type valid CSS here */
+.cid-tRQqhYmkMM .mbr-text {
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: #919dab;
+  margin-top: 30px;
 }
-#custom-html-6b div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
+.cid-tRQqhYmkMM .mbr-section-btn {
+  margin-top: 45px;
 }
-#custom-html-6b p {
-  font-size: 60px;
-  color: #777;
+.cid-tRQqhYmkMM .mbr-section-btn .btn {
+  height: 60px;
+  font-weight: 500;
+}
+.cid-tRQqhYmkMM img {
+  width: 100px;
+  height: 100px;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 767px) {
+  .cid-tRQqhYmkMM .mbr-section-btn {
+    margin-top: 30px;
+  }
+  .cid-tRQqhYmkMM .mbr-section-btn .btn {
+    height: 50px;
+  }
+  .cid-tRQqhYmkMM .mbr-text {
+    margin-top: 10px;
+  }
+}
+.cid-tRQqhYmkMM .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tRQqhYmkMM .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-s5OLWfOXSm {
   padding-top: 90px;
@@ -14799,18 +14817,6 @@ blockquote {
   text-align: center;
   color: #232323;
 }
-#custom-html-6f {
-  /* Type valid CSS here */
-}
-#custom-html-6f div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-6f p {
-  font-size: 60px;
-  color: #777;
-}
 .cid-s5OOXaNe6c {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -15901,18 +15907,6 @@ blockquote {
 .cid-s8OtMcvDg3 .ornament {
   text-align: center;
   color: #232323;
-}
-#custom-html-6n {
-  /* Type valid CSS here */
-}
-#custom-html-6n div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-6n p {
-  font-size: 60px;
-  color: #777;
 }
 .cid-s8OtMeN0N7 {
   padding-top: 90px;
